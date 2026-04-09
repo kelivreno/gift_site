@@ -12,7 +12,14 @@ body {
     object-fit: cover;
 }
 
-h1,h2,h4{
+h1,h2,h4, p{
   text-shadow: 0 0 1px black;
+}
+
+.header {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
 }
 
