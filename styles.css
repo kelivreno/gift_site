@@ -58,6 +58,11 @@ h1,h2,h4, p{
     margin: auto;
 }
 
+.gift-img:hover {
+    background-image: url("images/happy.gif");
+    background-size: cover;
+}
+
 .msg {
     margin-bottom: 10px;
 }
