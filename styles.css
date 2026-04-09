@@ -38,7 +38,7 @@ h1,h2,h4, p{
 }
 
 .gift-section {
-    margin-top: 20px;
+    margin-top: 50px;
     display: flex;
     flex-direction: column;
     justify-content: center;
@@ -47,8 +47,15 @@ h1,h2,h4, p{
 
 .gift-img {
     width: 400px;
-    border: 5px solid white;
-    border-radius: 8px;
+    border: 6px solid white;
+    border-radius: 10px;
+    height: 400px;
+    background-image: url("images/gift-cover.jpg");
+    background-size: cover;
+    display: column;
+    justify-content: center;
+    align-items: center;
+    margin: auto;
 }
 
 .msg {
