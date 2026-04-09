@@ -37,3 +37,24 @@ h1,h2,h4, p{
     border-radius: 5px;
 }
 
+.gift-section {
+    margin-top: 20px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.gift-img {
+    width: 400px;
+    border: 5px solid white;
+    border-radius: 8px;
+}
+
+.msg {
+    margin-bottom: 10px;
+}
+
+.prompt {
+    margin-bottom: 30px;
+}
